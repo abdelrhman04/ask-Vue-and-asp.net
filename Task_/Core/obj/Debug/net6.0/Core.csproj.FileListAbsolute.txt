@@ -1,0 +1,14 @@
+C:\Work\Task_\Core\bin\Debug\net6.0\Core.deps.json
+C:\Work\Task_\Core\bin\Debug\net6.0\Core.runtimeconfig.json
+C:\Work\Task_\Core\bin\Debug\net6.0\Core.dll
+C:\Work\Task_\Core\bin\Debug\net6.0\Core.pdb
+C:\Work\Task_\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Work\Task_\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Task_\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Work\Task_\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Work\Task_\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Work\Task_\Core\obj\Debug\net6.0\Core.dll
+C:\Work\Task_\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Work\Task_\Core\obj\Debug\net6.0\Core.pdb
+C:\Work\Task_\Core\obj\Debug\net6.0\Core.genruntimeconfig.cache
+C:\Work\Task_\Core\obj\Debug\net6.0\ref\Core.dll

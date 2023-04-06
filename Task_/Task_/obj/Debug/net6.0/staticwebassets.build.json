@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "XUPPV1E9GLeeI1eCOcvKAdJ0fEeu5i/W8uPDEaHyp5c=",
+  "Source": "Task_",
+  "BasePath": "_content/Task_",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Task_\\wwwroot",
+      "Source": "Task_",
+      "ContentRoot": "C:\\Work\\Task_\\Task_\\wwwroot\\",
+      "BasePath": "_content/Task_",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Work\\Task_\\Task_\\wwwroot\\Files\\Image\\hkgjgjh.PNG",
+      "SourceId": "Task_",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Work\\Task_\\Task_\\wwwroot\\",
+      "BasePath": "_content/Task_",
+      "RelativePath": "Files/Image/hkgjgjh.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\Image\\hkgjgjh.PNG"
+    },
+    {
+      "Identity": "C:\\Work\\Task_\\Task_\\wwwroot\\Files\\Image\\images.jpg",
+      "SourceId": "Task_",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Work\\Task_\\Task_\\wwwroot\\",
+      "BasePath": "_content/Task_",
+      "RelativePath": "Files/Image/images.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Files\\Image\\images.jpg"
+    }
+  ]
+}
